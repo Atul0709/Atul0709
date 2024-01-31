@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/atul-kumar-07-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atul-kumar-07-/" height="30" width="40" /></a>
-  <a href="[https://twitter.com/atul-kumar-07-/](https://www.linkedin.com/in/atul-kumar-07-/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atul-kumar-07-/" height="30" width="40" /></a>
+<a href="https://x.com/atul_kumar_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atul-kumar-07-/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/atul-kumar-07-/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.d5futl9_HMoiD0hPTuYylwHaHX?rs=1&pid=ImgDetMain" alt="atul-kumar-07-/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
