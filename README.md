@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul0709&label=Profile%20views&color=0e75b6&style=flat" alt="atul0709" /> </p>
 
-- 🔭 I’m currently working on **Blockchain and cyber security project**
+- 🔭 I’m currently working on **New Secret Pro**
 
-- 🌱 I’m currently learning **Solidity Programming Language**
+- 🌱 I’m currently learning **Open Source contribution**
 
 - 💬 Ask me about **Frontend and Backend web development**
 
